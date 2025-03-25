@@ -1,5 +1,5 @@
 # AutonoViz in ROS 101 🚗  
-Welcome to **AutonoViz in ROS 101**, a Level 3 autonomous driving project built around the Robot Operating System (ROS). This project highlights key concepts and techniques required to develop a conditional automation system, where the vehicle can perform most driving tasks under certain conditions but may still need human intervention. This README provides an overview of the project’s objectives, architecture, and core components, as described in the accompanying document. :contentReference[oaicite:0]{index=0}
+Welcome to **AutonoViz in ROS 101**, a Level 3 autonomous driving project built around the Robot Operating System (ROS). This project highlights key concepts and techniques required to develop a conditional automation system, where the vehicle can perform most driving tasks under certain conditions but may still need human intervention. This README provides an overview of the project’s objectives, architecture, and core components.
 
 ---
 
@@ -98,7 +98,7 @@ Each sensor publishes its data to ROS topics, forming the basis of perception an
 ---
 
 ## Visualization 🖥️
-The project heavily emphasizes visualization (“AutonoViz”). By leveraging tools such as **RViz** (for 3D sensor data) or **Python-based** libraries (for analysis and plotting), developers can rapidly interpret sensor streams, debug algorithms, and demonstrate autonomy in action. Visualization makes complex sensor interactions and path planning decisions more intuitive. :contentReference[oaicite:4]{index=4}
+The project heavily emphasizes visualization (“AutonoViz”). By leveraging tools such as **RViz** (for 3D sensor data) or **Python-based** libraries (for analysis and plotting), developers can rapidly interpret sensor streams, debug algorithms, and demonstrate autonomy in action. Visualization makes complex sensor interactions and path planning decisions more intuitive. 
 
 ---
 
@@ -116,8 +116,6 @@ The project heavily emphasizes visualization (“AutonoViz”). By leveraging to
 - [Navigation Stack](http://wiki.ros.org/navigation)  
 - “Autonomous Driving Dataset Visualization with Python and VizViewer” – Towards Data Science  
 - [RTAB-Map](http://wiki.ros.org/rtabmap_ros)  
-
-For more detailed explanations of each topic, please refer to the main document: **AutonoViz in ROS 101 doc file.docx**. :contentReference[oaicite:5]{index=5}
 
 ---
 
